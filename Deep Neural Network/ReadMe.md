@@ -1,4 +1,4 @@
-# Necessray datasets links to run the code
+# Necessary datasets links to run the code
 
 Preprocessed Dataset | Dataset Name | Download Link
 -------------------- | ------------ | -------------
